@@ -3,6 +3,9 @@
   "dependencies": {
     "@hexlet/immutable-fs-trees": "^0.7.1",
     "crc-32": "^1.2.2",
-    "lodash": "^4.17.21"
+    "fs": "^0.0.1-security",
+    "js-yaml": "^4.1.0",
+    "lodash": "^4.17.21",
+    "yaml": "^2.1.1"
   }
 }
